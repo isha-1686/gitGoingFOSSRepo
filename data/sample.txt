@@ -1,0 +1,7 @@
+add 2 3
+sub 10 4
+mul 6 7
+div 20 5
+sqrt 16
+add 1.5 2.5
+mul -3 4
