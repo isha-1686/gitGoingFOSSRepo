@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcalclib.a CMakeFiles/calclib.dir/src/calculator.cpp.o CMakeFiles/calclib.dir/src/logging.cpp.o CMakeFiles/calclib.dir/src/config.cpp.o
+/usr/bin/ranlib libcalclib.a

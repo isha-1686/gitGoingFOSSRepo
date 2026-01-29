@@ -1,0 +1,9 @@
+/workspaces/gitGoingFOSSRepo/build/CMakeFiles/calclib.dir
+/workspaces/gitGoingFOSSRepo/build/CMakeFiles/calc_app.dir
+/workspaces/gitGoingFOSSRepo/build/CMakeFiles/test.dir
+/workspaces/gitGoingFOSSRepo/build/CMakeFiles/edit_cache.dir
+/workspaces/gitGoingFOSSRepo/build/CMakeFiles/rebuild_cache.dir
+/workspaces/gitGoingFOSSRepo/build/tests/CMakeFiles/calc_tests.dir
+/workspaces/gitGoingFOSSRepo/build/tests/CMakeFiles/test.dir
+/workspaces/gitGoingFOSSRepo/build/tests/CMakeFiles/edit_cache.dir
+/workspaces/gitGoingFOSSRepo/build/tests/CMakeFiles/rebuild_cache.dir
